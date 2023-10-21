@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Davide Santos from VN Gaia<br><br>- 📚 Computer Science student @UMinho<br>- 💡 I'm currently learning more about front-end and design<br>- 🔒 Passionate about Cyber Security<br>- 🎶 I enjoy attending concerts in my free time</p>
+<p align="left">I'm Davide Santos from VN Gaia<br><br>- 📚 Computer Science student @UMinho<br>- 🔒 Passionate about Cyber Security<br>- 💡 Exploring front-end development and design<br>- 🎶 I enjoy attending concerts in my free time</p>
 
 ###
 
