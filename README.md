@@ -31,11 +31,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Davide Santos from VN Gaia<br><br>- 🔭 I’m studying @ UMinho<br>- 📚 I'm currently learning more about front-end and design<br>- ⚡ In my free time I go to concerts</p>
+<p align="left">I'm Davide Santos from VN Gaia<br><br>- 📚 Computer Science student @UMinho<br>- 💡 I'm currently learning more about front-end and design<br>- 🔒 Passionate about Cyber Security<br>- 🎶 I enjoy attending concerts in my free time</p>
 
 ###
 
@@ -57,8 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
