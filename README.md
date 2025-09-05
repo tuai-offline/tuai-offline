@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  />
+  <img height="150" src="https://github.githubassets.com/images/mona-loading-dark.gif"  />
 </div>
 
 ###
@@ -21,33 +21,21 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tuai-offline/count.svg?"  />
-</div>
-
-###
-
 <h1 align="center">hey there 👋</h1>
 
 ###
 
-<h3 align="left">👨‍💻  About Me</h3>
+### 👨‍💻 About Me  
+I'm Davide Santos from Vila Nova de Gaia 🇵🇹  
 
-###
+- 📚 Computer Science student @UMinho | Dev @ NECC  
+- 🔗 Passionate about Blockchain (Solana/Web3)  
+- 🤖 Exploring AI/ML & full-stack development (Next.js + FastAPI)  
+- 🏆 Hackathon enthusiast  
 
-<p align="left">
-I'm Davide Santos from Vila Nova de Gaia 🇵🇹<br><br>
-- 📚 Computer Science student @UMinho | Dev @ NECC<br>
-- 🔗 Passionate about Blockchain (Solana/Web3)<br>
-- 🤖 Exploring AI/ML & full-stack development (Next.js + FastAPI)<br>
-- 🏆 Hackathon enthusiast<br>
-</p>
+---
 
-###
-
-<h3 align="left">💾 Tech Stack</h3>
-
-###
+### 💾 Tech Stack  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
@@ -58,20 +46,18 @@ I'm Davide Santos from Vila Nova de Gaia 🇵🇹<br><br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=solana" height="40" alt="solana logo" />
+  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=025" height="40" alt="solana logo" />
 </div>
 
-###
+---
 
-<h3 align="left">🛠 Tools</h3>
-
-###
+### 🛠 Tools  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
@@ -79,11 +65,9 @@ I'm Davide Santos from Vila Nova de Gaia 🇵🇹<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
 
-###
+---
 
-<h3 align="left">🔥 My Stats :</h3>
-
-###
+### 🔥 My Stats  
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=tuai-offline&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
