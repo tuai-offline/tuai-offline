@@ -52,7 +52,7 @@ I'm Davide Santos from Vila Nova de Gaia 🇵🇹
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=025" height="40" alt="solana logo" />
+  <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/info/logo.png" height="40" alt="solana logo" />
 </div>
 
 ---
