@@ -14,12 +14,6 @@
   <a href="https://www.instagram.com/davidesantos_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <a href="https://discord.gg/6Qkg2VKe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-  </a>
-  <a href="https://tryhackme.com/p/tuaiOffline" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo" />
-  </a>
 </div>
 
 ###
@@ -34,6 +28,7 @@ I'm Davide Santos from Vila Nova de Gaia 🇵🇹
 - 📚 Computer Science student @UMinho | Dev @ NECC  
 - 🔗 Passionate about Blockchain (Solana/Web3)  
 - 🤖 Exploring AI/ML & full-stack development (Next.js + FastAPI)  
+- 📱 Building mobile apps with Expo / React Native  
 - 🏆 Hackathon enthusiast  
 
 ---
@@ -49,11 +44,15 @@ I'm Davide Santos from Vila Nova de Gaia 🇵🇹
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=expo" height="40" alt="expo logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/info/logo.png" height="40" alt="solana logo" />
 </div>
